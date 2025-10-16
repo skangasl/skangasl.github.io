@@ -23,4 +23,4 @@ I am a third year PhD candidate in the [ML foundations](https://mlfoundations.or
 
 Previously, I completed my Bachelor's in Computer Science at [Caltech](https://www.caltech.edu/), where I worked with [Anima Anandkumar](https://tensorlab.cms.caltech.edu/users/anima/) and [R. Michael Alvarez](https://www.rmichaelalvarez.com) on scalable tensor-based topic modeling methods.
 
-My email is sarakangaslahti \[at\] g \[dot\] harvard \[dot\] edu. Please feel free to reach out to discuss research!
+My email is sarakangaslahti (at) g (dot) harvard (dot) edu. Please feel free to reach out to discuss research!
