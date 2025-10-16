@@ -45,16 +45,14 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-new-preprint-out-hidden-breakthroughs-in-language-model-training-we-propose-polca-a-method-for-decomposing-changes-in-the-loss-along-arbitrary-bases-of-the-low-rank-training-subspace-and-show-that-polca-can-be-used-to-find-breakthroughs-in-training-that-are-obscured-by-aggregating-all-variation-into-a-single-scalar-loss-term",
+          title: 'New preprint out: Hidden Breakthroughs in Language Model Training. We propose POLCA, a...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-my-paper-continuous-language-model-interpolation-yields-dynamic-and-controllable-text-generation-was-published-at-tmlr",
+          title: 'My paper Continuous Language Model Interpolation yields Dynamic and Controllable Text Generation was...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-released-the-preprint-for-my-work-boomerang-distillation-enables-zero-shot-model-size-interpolation-we-uncover-boomerang-distillation-a-surprising-phenomenon-by-which-we-can-create-a-full-family-of-models-of-fine-grained-sizes-with-no-additional-training-by-interpolating-between-a-pretrained-and-distilled-model",
+          title: 'Released the preprint for my work 🪃 Boomerang Distillation Enables Zero-Shot Model Size...',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -75,14 +73,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/sarakangaslahti", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/sara-kangaslahti", "_blank");
         },
       },{
         id: 'social-scholar',
