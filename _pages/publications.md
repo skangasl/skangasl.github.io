@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+
 See the list of publications below, or check my [Google Scholar](https://scholar.google.com/citations?user=9OQ84e8AAAAJ&hl=en) for an up-to-date-list.
 
 <!-- Bibsearch Feature -->
