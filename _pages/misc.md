@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<!-- 
+<!--
 ## Invited talks
 
 
@@ -18,6 +18,6 @@ nav_order: 3
 *School of Engineering and Applied Sciences, Harvard University*
 Course: Computational Science and Engineering Capstone Project, taught by Dr. Weiwei Pan
 
-## Reviewing 
+## Reviewing
 
 ## Personal -->
