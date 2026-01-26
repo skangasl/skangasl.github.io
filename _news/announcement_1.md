@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-23
+date: 2025-09-01
 inline: true
 related_posts: false
 ---
 
-New preprint out: [Hidden Breakthroughs in Language Model Training](https://arxiv.org/abs/2506.15872). We propose POLCA, a method for decomposing changes in the loss along arbitrary bases of the low-rank training subspace, and show that POLCA can be used to find breakthroughs in training that are obscured by aggregating all variation into a single scalar loss term.
+My paper [Continuous Language Model Interpolation yields Dynamic and Controllable Text Generation](https://openreview.net/pdf?id=xD9Nu2Wah4) was published at TMLR!

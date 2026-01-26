@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-01
+date: 2025-12-06
 inline: true
 related_posts: false
 ---
 
-My paper [Continuous Language Model Interpolation yields Dynamic and Controllable Text Generation](https://openreview.net/pdf?id=xD9Nu2Wah4) was published at TMLR!
+My work [Boomerang Distillation Enables Zero-Shot Model Size Interpolation](https://arxiv.org/abs/2510.05064) was accepted to the UniReps Workshop blogpost track at NeurIPS 2025. Check out the blog post on [the UniReps blog](https://unireps.org/blog/2025/boomerang-distillation/)!
