@@ -23,14 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "news-new-preprint-out-hidden-breakthroughs-in-language-model-training-we-propose-polca-a-method-for-decomposing-changes-in-the-loss-along-arbitrary-bases-of-the-low-rank-training-subspace-and-show-that-polca-can-be-used-to-find-breakthroughs-in-training-that-are-obscured-by-aggregating-all-variation-into-a-single-scalar-loss-term",
-          title: 'New preprint out: Hidden Breakthroughs in Language Model Training. We propose POLCA, a...',
-          description: "",
-          section: "News",},{id: "news-my-paper-continuous-language-model-interpolation-yields-dynamic-and-controllable-text-generation-was-published-at-tmlr",
+        },{id: "news-my-paper-continuous-language-model-interpolation-yields-dynamic-and-controllable-text-generation-was-published-at-tmlr",
           title: 'My paper Continuous Language Model Interpolation yields Dynamic and Controllable Text Generation was...',
           description: "",
-          section: "News",},{id: "news-released-the-preprint-for-my-work-boomerang-distillation-enables-zero-shot-model-size-interpolation-we-uncover-boomerang-distillation-a-surprising-phenomenon-by-which-we-can-create-a-full-family-of-models-of-fine-grained-sizes-with-no-additional-training-by-interpolating-between-a-pretrained-and-distilled-model",
-          title: 'Released the preprint for my work 🪃 Boomerang Distillation Enables Zero-Shot Model Size...',
+          section: "News",},{id: "news-my-work-boomerang-distillation-enables-zero-shot-model-size-interpolation-was-accepted-to-the-unireps-workshop-blogpost-track-at-neurips-2025-check-out-the-blog-post-on-the-unireps-blog",
+          title: 'My work Boomerang Distillation Enables Zero-Shot Model Size Interpolation was accepted to the...',
+          description: "",
+          section: "News",},{id: "news-two-of-my-papers-were-accepted-to-iclr-2026-boomerang-distillation-enables-zero-shot-model-size-interpolation-we-uncover-boomerang-distillation-a-surprising-phenomenon-by-which-we-can-create-a-full-family-of-models-of-fine-grained-sizes-with-no-additional-training-by-interpolating-between-a-pretrained-and-distilled-model-hidden-breakthroughs-in-language-model-training-we-propose-polca-a-method-for-decomposing-changes-in-the-loss-along-arbitrary-bases-of-the-low-rank-training-subspace-and-show-that-polca-can-be-used-to-find-breakthroughs-in-training-that-are-obscured-by-aggregating-all-variation-into-a-single-scalar-loss-term",
+          title: 'Two of my papers were accepted to ICLR 2026! 🪃 Boomerang Distillation Enables...',
           description: "",
           section: "News",},{
         id: 'social-email',
