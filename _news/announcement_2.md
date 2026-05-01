@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-06
+date: 2026-01-26
 inline: true
 related_posts: false
 ---
 
-My work [Boomerang Distillation Enables Zero-Shot Model Size Interpolation](https://arxiv.org/abs/2510.05064) was published at the NeurIPS 2025 UniReps Workshop as part of the blogpost track. Check out our post on [the UniReps blog](https://unireps.org/blog/2025/boomerang-distillation/)!
+Two of my papers were accepted to ICLR 2026: 🪃 [Boomerang Distillation Enables Zero-Shot Model Size Interpolation](https://arxiv.org/abs/2510.05064) 🪃 and [Hidden Breakthroughs in Language Model Training](https://arxiv.org/abs/2506.15872)!
