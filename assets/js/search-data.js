@@ -23,14 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "news-my-paper-continuous-language-model-interpolation-yields-dynamic-and-controllable-text-generation-was-published-at-tmlr",
-          title: 'My paper Continuous Language Model Interpolation yields Dynamic and Controllable Text Generation was...',
-          description: "",
-          section: "News",},{id: "news-my-work-boomerang-distillation-enables-zero-shot-model-size-interpolation-was-published-at-the-neurips-2025-unireps-workshop-as-part-of-the-blogpost-track-check-out-our-post-on-the-unireps-blog",
+        },{id: "news-my-work-boomerang-distillation-enables-zero-shot-model-size-interpolation-was-published-at-the-neurips-2025-unireps-workshop-as-part-of-the-blogpost-track-check-out-our-post-on-the-unireps-blog",
           title: 'My work Boomerang Distillation Enables Zero-Shot Model Size Interpolation was published at the...',
           description: "",
           section: "News",},{id: "news-two-of-my-papers-were-accepted-to-iclr-2026-boomerang-distillation-enables-zero-shot-model-size-interpolation-and-hidden-breakthroughs-in-language-model-training",
           title: 'Two of my papers were accepted to ICLR 2026: 🪃 Boomerang Distillation Enables...',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-icml-2026-inverse-depth-scaling-from-most-layers-being-similar",
+          title: 'Paper accepted at ICML 2026! Inverse Depth Scaling From Most Layers Being Similar...',
           description: "",
           section: "News",},{
         id: 'social-email',
