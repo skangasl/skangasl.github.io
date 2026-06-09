@@ -7,8 +7,8 @@ nav_order: 3
 redirect: false
 ---
 
-<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/cv.pdf' | relative_url }}">
+<meta http-equiv="refresh" content="0; url=/assets/pdf/cv.pdf">
 
 <p>
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">Open CV PDF</a>
+  <a href="/assets/pdf/cv.pdf">Open CV PDF</a>
 </p>
