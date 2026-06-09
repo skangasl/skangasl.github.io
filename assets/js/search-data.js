@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-misc",
-          title: "misc.",
-          description: "Miscellaneous information.",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/misc/";
+            window.location.href = "/cv/";
           },
         },{id: "news-my-work-boomerang-distillation-enables-zero-shot-model-size-interpolation-was-published-at-the-neurips-2025-unireps-workshop-as-part-of-the-blogpost-track-check-out-our-post-on-the-unireps-blog",
           title: 'My work Boomerang Distillation Enables Zero-Shot Model Size Interpolation was published at the...',
