@@ -23,14 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-my-work-boomerang-distillation-enables-zero-shot-model-size-interpolation-was-published-at-the-neurips-2025-unireps-workshop-as-part-of-the-blogpost-track-check-out-our-post-on-the-unireps-blog",
-          title: 'My work Boomerang Distillation Enables Zero-Shot Model Size Interpolation was published at the...',
-          description: "",
-          section: "News",},{id: "news-two-of-my-papers-were-accepted-to-iclr-2026-boomerang-distillation-enables-zero-shot-model-size-interpolation-and-hidden-breakthroughs-in-language-model-training",
+        },{id: "news-two-of-my-papers-were-accepted-to-iclr-2026-boomerang-distillation-enables-zero-shot-model-size-interpolation-and-hidden-breakthroughs-in-language-model-training",
           title: 'Two of my papers were accepted to ICLR 2026: 🪃 Boomerang Distillation Enables...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-icml-2026-inverse-depth-scaling-from-most-layers-being-similar",
           title: 'Paper accepted at ICML 2026! Inverse Depth Scaling From Most Layers Being Similar...',
+          description: "",
+          section: "News",},{id: "news-two-of-my-follow-up-works-to-boomerang-distillation-are-now-out-thinking-at-the-right-size-amortized-distillation-across-post-trained-llms-was-accepted-at-emnlp-findings-and-we-presented-understanding-layer-patching-in-model-size-interpolation-at-the-icml-adaptfm-workshop",
+          title: 'Two of my follow-up works to boomerang distillation are now out! Thinking at...',
           description: "",
           section: "News",},{
         id: 'social-email',
