@@ -29,8 +29,8 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-icml-2026-inverse-depth-scaling-from-most-layers-being-similar",
           title: 'Paper accepted at ICML 2026! Inverse Depth Scaling From Most Layers Being Similar...',
           description: "",
-          section: "News",},{id: "news-two-of-my-follow-up-works-to-boomerang-distillation-are-now-out-thinking-at-the-right-size-amortized-distillation-across-post-trained-llms-was-accepted-at-emnlp-findings-and-we-presented-understanding-layer-patching-in-model-size-interpolation-at-the-icml-adaptfm-workshop",
-          title: 'Two of my follow-up works to boomerang distillation are now out! Thinking at...',
+          section: "News",},{id: "news-two-of-my-follow-up-works-to-boomerang-distillation-are-now-out-understanding-layer-patching-in-model-size-interpolation-was-accepted-at-neurips-2026-and-thinking-at-the-right-size-amortized-distillation-across-post-trained-llms-was-accepted-at-emnlp-2026-findings",
+          title: 'Two of my follow-up works to boomerang distillation are now out! Understanding Layer...',
           description: "",
           section: "News",},{
         id: 'social-email',
